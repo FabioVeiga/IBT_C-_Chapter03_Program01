@@ -1,0 +1,10 @@
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.csprojAssemblyReference.cache
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.Properties.Resources.resources
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.csproj.GenerateResource.cache
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.csproj.CoreCompileInputs.cache
+C:\Users\Programming15\source\repos\Chapter03_Program01\bin\Debug\Chapter03_Program01.exe.config
+C:\Users\Programming15\source\repos\Chapter03_Program01\bin\Debug\Chapter03_Program01.exe
+C:\Users\Programming15\source\repos\Chapter03_Program01\bin\Debug\Chapter03_Program01.pdb
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.exe
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.pdb
+C:\Users\Programming15\source\repos\Chapter03_Program01\obj\Debug\Chapter03_Program01.frmMain.resources
